@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1626425001753.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4F27DAD",
+    "lastKnownWriteTime" : 3617335099082420270,
+    "last_content_update" : 1626425001753,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4295C964",
+        "caption" : "MPFA_fee",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=MPFA_fee&cache_key=4295C964",
+        "displayedObservations" : "487",
+        "environment" : "",
+        "expression" : "MPFA_fee",
+        "object" : "MPFA_fee",
+        "preview" : "0",
+        "totalObservations" : "487",
+        "variables" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

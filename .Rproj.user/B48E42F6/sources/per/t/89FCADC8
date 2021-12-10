@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616006827891.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "89FCADC8",
+    "lastKnownWriteTime" : 2318289696563819374,
+    "last_content_update" : 1616006827891,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F26EE70",
+        "caption" : "MPFA_market_share_long",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=MPFA_market_share_long&cache_key=F26EE70",
+        "displayedObservations" : "28",
+        "environment" : "",
+        "expression" : "MPFA_market_share_long",
+        "object" : "MPFA_market_share_long",
+        "preview" : "0",
+        "totalObservations" : "28",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

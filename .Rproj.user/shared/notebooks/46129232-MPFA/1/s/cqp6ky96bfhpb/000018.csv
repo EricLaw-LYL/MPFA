@@ -1,0 +1,2 @@
+"0","library(patchwork)"
+"0","combined = bar_total_size + bar_average_size & theme(legend.position = ""bottom"")"

@@ -1,0 +1,7 @@
+"0","MPFA_return = read_excel(""data/Fund_Information_Table_risk_return.xlsx"", skip = 13)"
+"0","MPFA_fee = read_excel(""data/Fund_Information_Table_fee_charges.xlsx"", skip = 13)"
+"0",""
+"0","# Join two tables"
+"0","MPFA = inner_join(MPFA_return, MPFA_fee)"
+"2","Joining, by = c(""Scheme"", ""Constituent Fund"", ""MPF Trustee"", ""Fund Type"", ""Latest FER (%)"")
+"

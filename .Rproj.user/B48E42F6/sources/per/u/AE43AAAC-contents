@@ -1,0 +1,23 @@
+roman = function(symbol) {
+  value = switch(symbol, 
+                 "I" = 1, 
+                 "V" = 5, 
+                 "X" = 10, 
+                 "L" = 50, 
+                 "C" = 100, 
+                 "D" = 500, 
+                 "M" = 1000)
+  return(value)
+}
+
+roman("M")
+
+x = "MMVIII"
+x = strsplit(x, "")[[1]]
+x = sapply(x, roman)
+
+for (i in 1:(length(x)-1)) {
+  if (x[i] < x[i+1]) {
+    print(i)
+  }
+}
